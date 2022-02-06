@@ -57,6 +57,7 @@ public class ModuleRegistry {
         modules.add(new Hyperspeed());
         modules.add(new AntiAnvil());
         modules.add(new Swing());
+        modules.add(new ArmorSwitch());
         modules.add(new AimAssist());
         modules.add(new Criticals());
         modules.add(new Killaura());
