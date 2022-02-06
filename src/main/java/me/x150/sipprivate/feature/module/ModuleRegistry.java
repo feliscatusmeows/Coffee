@@ -104,7 +104,7 @@ public class ModuleRegistry {
         modules.add(new NoBreakDelay());
         modules.add(new Nuker());
         modules.add(new Scaffold());
-        modules.add(new Test());
+        //modules.add(new Test());
         modules.add(new BlocksmcFlight());
         modules.add(new NameTags());
     }
