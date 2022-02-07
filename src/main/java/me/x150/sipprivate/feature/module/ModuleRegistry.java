@@ -57,6 +57,7 @@ public class ModuleRegistry {
         modules.add(new Hyperspeed());
         modules.add(new AntiAnvil());
         modules.add(new Swing());
+        modules.add(new ArmorSwitch());
         modules.add(new AimAssist());
         modules.add(new Criticals());
         modules.add(new Killaura());
@@ -103,7 +104,7 @@ public class ModuleRegistry {
         modules.add(new NoBreakDelay());
         modules.add(new Nuker());
         modules.add(new Scaffold());
-        modules.add(new Test());
+        //modules.add(new Test());
         modules.add(new BlocksmcFlight());
         modules.add(new NameTags());
     }
